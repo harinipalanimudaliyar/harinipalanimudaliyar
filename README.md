@@ -67,9 +67,9 @@
 ### [ 02 ] Education
 
 * Aspire leader program (C-3 '26)
-* **BS data science** (FI) [6.67 gpa]
-* **BE CSE (AI & ML)** [9.7 gpa]
-* **HDCA + tally** (Parallel study)
+* **BS data science** (FI) [6.67 cgpa]
+* **BE CSE (AI & ML)** [9.3 cgpa]
+* **HDCA + tally** (Parallel study)[9.7 cgpa]
 * **High school** (86%)
 
 <br>
