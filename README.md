@@ -23,13 +23,7 @@
 **LANGUAGES**
 
 <br>
-<img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white&logoRadius=50" alt="Python">
-<img src="https://img.shields.io/badge/SQL-333333?style=flat-square&logo=postgresql&logoColor=white&logoRadius=50" alt="SQL">
-<img src="https://img.shields.io/badge/C++-333333?style=flat-square&logo=c%2B%2B&logoColor=white&logoRadius=50" alt="C++">
-<img src="https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white&logoRadius=50" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=white&logoRadius=50" alt="CSS">
-<img src="https://img.shields.io/badge/R-333333?style=flat-square&logo=r&logoColor=white&logoRadius=50" alt="R">
-
+<img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white&logoRadius=50" alt="Python"><img src="https://img.shields.io/badge/SQL-333333?style=flat-square&logo=postgresql&logoColor=white&logoRadius=50" alt="SQL"><img src="https://img.shields.io/badge/C++-333333?style=flat-square&logo=c%2B%2B&logoColor=white&logoRadius=50" alt="C++"><img src="https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white&logoRadius=50" alt="HTML"><img src="https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=white&logoRadius=50" alt="CSS"><img src="https://img.shields.io/badge/R-333333?style=flat-square&logo=r&logoColor=white&logoRadius=50" alt="R">
 <br>
 <hr style="border: 0.5px solid #444; width: 100%;">
 <br>
@@ -39,7 +33,6 @@
 <br>
 <img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white&logoRadius=50" alt="React">
 <img src="https://img.shields.io/badge/Cordova-333333?style=flat-square&logo=apache-cordova&logoColor=white&logoRadius=50" alt="Cordova">
-
 <br>
 <hr style="border: 0.5px solid #444; width: 100%;">
 <br>
