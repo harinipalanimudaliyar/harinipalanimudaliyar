@@ -1,11 +1,8 @@
 <h1 align="center">HARINI PALANI</h1>
 
 <p align="center">
-  <code>3rd year BE CSE AI&ML</code> | <code>Foundation level BS data science @ IITM</code> | <code>Graduate of ALP'26 C-3</code>
-</p>
-
+  <code>3rd year BE CSE AI&ML</code> | <code>Foundation level BS data science @ IITM</code> | <code>Graduate of ALP'26 C-3</code></p>
 <br>
-
 <p align="center">
   <a href="https://linkedin.com/in/harini-palani-computer-science-engineering-aiml"><img src="https://img.shields.io/badge/Let's_Connect_|_LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&logoRadius=50" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
